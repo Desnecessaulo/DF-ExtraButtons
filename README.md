@@ -6,7 +6,7 @@ Custom navigation bar userscript for the game Dead Frontier</p>
   <tr>
     <td width="50%">
       <p align="center"><b>Navigation Bar</b></p>
-      <img src="https://github.com/user-attachments/assets/2c99e212-1e48-4075-aaf1-0d371d4f8f4a" alt="Navigation Bar" />
+      <img src="https://github.com/user-attachments/assets/c0e75155-cedd-4804-bc4c-aca58744603a" alt="Navigation Bar" />
     </td>
   </tr>
 </table>
