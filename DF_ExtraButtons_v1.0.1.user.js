@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DF ExtraButtons (bt)
+// @name         DF ExtraButtons
 // @namespace    http://tampermonkey.net/
 // @version      1.0.1
 // @description  Extra buttons for Dead Frontier
@@ -847,5 +847,6 @@
             init();
         }
     });
+
 
 })();
